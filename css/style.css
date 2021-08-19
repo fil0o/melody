@@ -78,6 +78,10 @@ body {
   opacity: 1;
 }
 
+.home__image .current-floor {
+  opacity: 1;
+}
+
 .main-info {
   flex-grow: 1;
   text-align: center;
